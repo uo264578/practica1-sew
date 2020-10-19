@@ -43,3 +43,14 @@ h2{
     font: 400 25px Tahoma,sans-serif;
     color: #000000;
   }
+ ul{
+    border-width: 5px;
+    border-radius: 50px;
+    background-color: #0000FF;
+	color:#ffffff;
+  }
+  
+html{
+    background-image: url("multimedia/peli.jpg");
+
+  }
