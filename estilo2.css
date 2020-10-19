@@ -1,7 +1,7 @@
 .div1{
 	position:relative;
-	width:600px;
-	height:1000px;
+	width:400px;
+	height:1500px;
 	background-color: rgba(255,255,255,0.9);
 	color:#000000;
 }
@@ -10,14 +10,14 @@
 	width:400px;
 	height:600px;
 	bottom:100%;
-	left:140%;
+	left:130%;
 	top:0;
 	color:#ffffff;
 	background-color: rgba(20,20,20,0.9);
 }
 .divN{
-	width:700px;
-	height:900px;
+	width:500px;
+	height:1100px;
 	position:absolute;
 	left:0;
 	top:0;
