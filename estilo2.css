@@ -1,3 +1,4 @@
+  
 section{
 	position:relative;
 }
@@ -7,15 +8,15 @@ section{
 }
 .div1{
 	position:absolute;
-	width:900px;
-	height:700px;
+	width:800px;
+	height:900px;
 	background-color: rgba(255,255,255,0.9);
 	color:#000000;
 }
 .div2{
 	position:relative;
 	width:400px;
-	height:700px;
+	height:900px;
 	color:#ffffff;
 	background-color: rgba(20,20,20,0.9);
 }
