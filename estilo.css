@@ -2,6 +2,7 @@ body {
       font: 400 15px Tahoma,sans-serif; /*Familia sans-serif*/
       line-height: 1.8;
       color: #818181;
+	  background-color: rgba(255,255,255,0.0);
   }
 h1 {
 	  background-color: rgba(255,255,255,0.7);
@@ -45,6 +46,7 @@ ul{
   }
 a{
     color:#ffffff;
+	background-color: rgba(255,255,255,0.0);
   }
 div,p{
       font: 400 20px Tahoma,sans-serif;
