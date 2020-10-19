@@ -12,20 +12,16 @@ h1 {
   }
 h2{
 	background-color: rgba(255,255,255,0.7);
-    font-weight: bolder;
     text-decoration: underline;
     font: 400 25px Tahoma,sans-serif;
     color: #000000;
   }
 h3{
 	background-color: rgba(255,255,255,0.7);
-    font-weight: bolder;
     font: 400 15px Tahoma,sans-serif;
     color: #000000;
   }
 aside{
-    background-color:rgba(255,255,255,0.3);
-    color: #ffffff;
     padding: 10px 10px 5px 5px;
   }
 table{
@@ -35,7 +31,6 @@ table{
 th{
   background-color: #555555;
   color:#ffffff;
-  font-weight: 700;
 }
 nav{
     font-family:Verdana,serif;
@@ -46,12 +41,24 @@ ul{
     border-width: 5px;
     border-radius: 50px;
     background-color: #0000FF;
+	color:#ffffff;
   }
 a{
     color:#ffffff;
   }
 div,p{
-      color: #000000;
-	  font-weight: bolder;
       font: 400 20px Tahoma,sans-serif;
 }
+html{
+    background-image: url("multimedia/peli.jpg");
+
+  }
+section{
+	background-color: rgba(255,255,255,0.9);
+    color: #000000;
+}
+main{
+	background-color: rgba(255,255,255,0.9);
+    color: #000000;
+}
+
