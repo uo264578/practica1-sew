@@ -50,8 +50,8 @@ ul{
 a{
     color:#ffffff;
   }
-p{
+div,p{
       color: #000000;
 	  font-weight: bolder;
-      font: 400 20px Tahoma,sans-serif;	  
-  }
+      font: 400 20px Tahoma,sans-serif;
+}
