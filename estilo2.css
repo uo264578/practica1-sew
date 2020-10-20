@@ -9,10 +9,10 @@
 	border-collapse:collapse;
 	margin:0;
 	padding:0;
-	table-layout:relative;
+	table-layout:fixed;
 }
 .tabla caption{
-	font-size:20 px;
+	font: 400 25px Tahoma,sans-serif;
 	text-transform:uppercase;
 }
 .tabla tr{
