@@ -1,0 +1,50 @@
+/*especificidad = 10*/
+.contenedor{
+	width:100%;
+	max-width:1000px;
+	margin:auto;
+}
+/*especificidad = 10*/
+.tabla{
+	width:100%;
+	border: 1px solid #ccc;
+	border-collapse:collapse;
+	margin:0;
+	padding:0;
+	table-layout:fixed;
+}
+/*especificidad = 10*/
+.tabla caption{
+	font: 400 25px Tahoma,sans-serif;
+	text-transform:uppercase;
+}
+/*especificidad = 11*/
+.tabla tr{
+	background-color: #f8f8f8;
+	color: #000000;
+	border:1px solid #ddd;
+}
+/*especificidad = 22*/
+.tabla td,.table th{
+	font-size:16px;
+	padding:8px;
+	text-align:center;
+}
+/*especificidad = 10*/
+.divGeneral{
+	position:relative;
+	top:0%;
+	left:0%;
+}
+/*especificidad = 10*/
+.divTexto{
+	position:relative;
+	top:0%;
+	left:0%;
+}
+/*especificidad = 10*/
+.divEnlace{
+	position:relative;
+	top:0%;
+	left:0%;
+}
