@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
 	
 	<link rel="stylesheet" type="text/css" href="estilo.css" />
+	<link rel="stylesheet" type="text/css" href="estilo2.css" />
 	<meta name="author" content = "Pedro Garcia-Cañal">
 	<meta name="descripcion" content = "Html peliculas del señor de los anillos">
 	<title>Peliculas del señor de los anillos</title>
@@ -27,37 +28,43 @@
 	
 	<main>
 	<section>
-	<h2>Peliculas</h2>
-	<table>
+	<div class = "contenedor">
+	<table class = "tabla">
+	<caption> Peliculas </caption>
+	<thead>
 	<tr>
-	<th id = "titulo">Título</th>
-	<th id = "fecha">Fecha de estreno</th>
-	<th id = "duracion">Duracion</th>
-	<th id = "presupuesto">Presupuesto(en USD)</th>
-	<th id = "recaudacion">Recaudación total mundial (USD)</th>
+	<th>Titulo</th>
+	<th>Fecha de estreno</th>
+	<th>Duracion</th>
+	<th>Presupuesto(en USD)</th>
+	<th>Recaudacion total mundial(USD)</th>
+	</tr>
+	</thead>
+	<tbody>
+	<tr>
+	<td label="Titulo">La Comunidad del Anillo</td>
+	<td label="Fecha de estreno">19 de Diciembre de 2001</td>
+	<td label="Duracion">178 min</td>
+	<td label="Presupuesto">93 millones</td>
+	<td label="Recaudacion">871.530.324</td>
 	</tr>
 	<tr>
-	<th id = "la comunidad del anillo">La Comunidad del Anillo</th>
-	<th id = "2001">19 de diciembre de 2001</th>
-	<th id = "178">178 min</th>
-	<th id = "93">93 millones</th>
-	<th id = "871">871.530.324</th>
+	<td label="Titulo">Las 2 torres</td>
+	<td label="Fecha de estreno">18 de Diciembre de 2002</td>
+	<td label="Duracion">179 min</td>
+	<td label="Presupuesto">94 millones</td>
+	<td label="Recaudacion">926.047.111</td>
 	</tr>
 	<tr>
-	<th id = "las 2 torres">Las 2 torres</th>
-	<th id = "2002">18 de diciembre de 2002</th>
-	<th id = "179">179 min</th>
-	<th id = "94">94 millones</th>
-	<th id = "926">926.047.111</th>
+	<td label="Titulo">El retorno del rey</td>
+	<td label="Fecha de estreno">17 de Diciembre de 2003</td>
+	<td label="Duracion">200 min</td>
+	<td label="Presupuesto">94 millones</td>
+	<td label="Recaudacion">1.119.929.521</td>
 	</tr>
-	<tr>
-	<th id = "el retorno del rey">El retorno del Rey</th>
-	<th id = "2003">17 de diciembre de 2003</th>
-	<th id = "200">200 min</th>
-	<th id = "94 millones">94 millones</th>
-	<th id = "1119">1.119.929.521</th>
-	</tr>
+	</tbody>
 	</table>
+	</div>
 	</section>
 	</main>
 </body>
