@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rutas>
+    <ruta>
+        <agencia> Sin agencia </agencia>
+        <coordenadasInicio>
+            <altitud>0.0</altitud>
+            <latitud>0.0</latitud>
+            <longitud>0.0</longitud>
+        </coordenadasInicio>
+        <descripcion> Se trata de una ruta en caravana para recorrer España desde Asturias hasta Andalucia pasando tambien por Castilla y Leon y Extremdura. </descripcion>
+        <dificultad> Facil </dificultad>
+        <direccionInicio>Plaza del Humendal</direccionInicio>
+        <duracion> P15D </duracion>
+        <hitos>
+            <hito/>
+            <hito/>
+            <hito/>
+            <hito/>
+            <hito/>
+        </hitos>
+        <inicio>Gijon</inicio>
+        <personas> Cualquier persona puede hacer esta ruta siempre que alguno tenga carnet de conducir y una caravana </personas>
+        <recomendacion>7</recomendacion>
+        <referencias/>
+        <tipo> Momumentos y arquitectura </tipo>
+    </ruta>
+    <ruta>
+        <agencia> Sin agencia </agencia>
+        <coordenadasInicio>
+            <altitud>0.0</altitud>
+            <latitud>0.0</latitud>
+            <longitud>0.0</longitud>
+        </coordenadasInicio>
+        <descripcion> Se trata de una ruta en caravana para conocer los costas andaluzas </descripcion>
+        <dificultad> Facil </dificultad>
+        <direccionInicio>Cadiz</direccionInicio>
+        <duracion> P7D </duracion>
+        <hitos>
+            <hito/>
+            <hito/>
+            <hito/>
+        </hitos>
+        <inicio>Cadiz</inicio>
+        <personas> Cualquier persona puede hacer esta ruta siempre que alguno tenga carnet de conducir y una caravana </personas>
+        <recomendacion>9</recomendacion>
+        <referencias/>
+        <tipo> Ruta de playas </tipo>
+    </ruta>
+    <ruta>
+        <agencia> Sin agencia </agencia>
+        <coordenadasInicio>
+            <altitud>0.0</altitud>
+            <latitud>0.0</latitud>
+            <longitud>0.0</longitud>
+        </coordenadasInicio>
+        <descripcion> Se trata de la famosa ruta del camino de Santiago pero en vez de a pie en caravana </descripcion>
+        <dificultad> Media </dificultad>
+        <direccionInicio>Roncesvalles</direccionInicio>
+        <duracion> P10D </duracion>
+        <hitos>
+            <hito/>
+            <hito/>
+            <hito/>
+        </hitos>
+        <inicio>Roncesvalles</inicio>
+        <personas> Cualquier persona puede hacer esta ruta siempre que alguno tenga carnet de conducir y una caravana </personas>
+        <recomendacion>9</recomendacion>
+        <referencias/>
+        <tipo> Arquitectura y Monumentos </tipo>
+    </ruta>
+</rutas>

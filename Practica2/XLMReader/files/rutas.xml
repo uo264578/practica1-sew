@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<rutas>
+
+<ruta nombre="Ruta de la Plata">
+<tipo> Momumentos y arquitectura </tipo>
+<dificultad> Facil </dificultad>
+<duracion> P15D </duracion>
+<agencia> Sin agencia </agencia>
+<descripcion> Se trata de una ruta en caravana para recorrer España desde Asturias hasta Andalucia pasando tambien por Castilla y Leon y Extremdura. </descripcion>
+<personas> Cualquier persona puede hacer esta ruta siempre que alguno tenga carnet de conducir y una caravana </personas>
+<inicio>Gijon</inicio>
+<direccionInicio>Plaza del Humendal</direccionInicio>
+<coordenadasInicio>Latitud:43.53968485 Longitud:-5.66681153 Altitud:17 metros</coordenadasInicio>
+<referencias>
+<enlace>https://rutadelaplata.com/guias-y-mapas/</enlace>
+<enlace>https://www.vvelascocorreduria.es/blog/2017/07/11/via-de-la-plata-en-autocaravana/</enlace>
+<enlace>https://www.spain.info/es/ruta/via-plata/</enlace>
+</referencias>
+<recomendacion>7</recomendacion>
+<hitos>
+
+<hito nombreHito = "Leon">
+<descripcionHito>Ciudad que se encuentra en castilla y leon, destaca por su catedral gotica</descripcionHito>
+<coordenadasHito>Latitud:42º36´N Longitud:5º34´13´´O Altitud:844m</coordenadasHito>
+<distanciaAnterior>150 km</distanciaAnterior>
+<tiempoAnterior>1 hora y 15 minutos</tiempoAnterior>
+<fotoHito>https://farm6.staticflickr.com/5248/5377665666_4c28b47bc1_b.jpg</fotoHito>
+<videoHito>https://www.youtube.com/watch?v=tP4ew91EFsc</videoHito>
+</hito>
+
+<hito nombreHito = "Zamora">
+<descripcionHito>El casco antiguo esta muy bien consevado lleno de palacios blasonados que nos recuerda que fue ua ciudad señorial y noble</descripcionHito>
+<coordenadasHito>Latitud:41º30´22´´N Longitud:5º44´40´´O Altitud:662m</coordenadasHito>
+<distanciaAnterior>66 km</distanciaAnterior>
+<tiempoAnterior>30 minutos</tiempoAnterior>
+<fotoHito>https://upload.wikimedia.org/wikipedia/commons/5/59/Ayuntamiento_Viejo_de_Zamora_%282%29.JPG</fotoHito>
+<videoHito>https://www.youtube.com/watch?v=c1b1A4pHZ6s</videoHito>
+</hito>
+
+<hito nombreHito = "Salamanca">
+<descripcionHito>La capital del Tormes, rebosa sabiduria gracias a su centenaria Universidad</descripcionHito>
+<coordenadasHito>Latitud:40º58´07´´N Longitud:5º39´49´´O Altitud:815m</coordenadasHito>
+<distanciaAnterior>140 km</distanciaAnterior>
+<tiempoAnterior>menos de 1 hora</tiempoAnterior>
+<fotoHito>https://upload.wikimedia.org/wikipedia/commons/4/4c/Plaza_Mayor%2C_Salamanca.JPG</fotoHito>
+<videoHito>https://www.youtube.com/watch?v=tHTXhXP-hcU</videoHito>
+</hito>
+
+<hito nombreHito = "Caceres">
+<descripcionHito>Un laberinto urbano atiborrado de calles tortuosas y casonas solariegas</descripcionHito>
+<coordenadasHito>Latitud:39º28´35´´N Longitud:6º22´20´´O Altitud:441m</coordenadasHito>
+<distanciaAnterior>200 km</distanciaAnterior>
+<tiempoAnterior>2 horas</tiempoAnterior>
+<fotoHito>https://upload.wikimedia.org/wikipedia/commons/5/53/C%C3%A1ceres_(12040992256).jpg</fotoHito>
+<videoHito>https://www.youtube.com/watch?v=Ru3_z5JBjSw</videoHito>
+</hito>
+
+<hito nombreHito = "Sevilla">
+<descripcionHito>Ultima parada de la ruta y una ciudad donde se pueden contemplar hermosas panoramicas</descripcionHito>
+<coordenadasHito>Latitud:37º22´58´´N Longitud:5º58´23´´O Altitud:16m</coordenadasHito>
+<distanciaAnterior>265 km</distanciaAnterior>
+<tiempoAnterior>2 horas</tiempoAnterior>
+<fotoHito>https://nova24tv.si/wp-content/uploads/2019/05/19.-Sevilla.jpg</fotoHito>
+<videoHito>https://www.youtube.com/watch?v=opRjk5gBNLw</videoHito>
+</hito>
+
+</hitos>
+</ruta>
+
+<ruta nombre="Playas Malaga y Cadiz">
+<tipo> Ruta de playas </tipo>
+<dificultad> Facil </dificultad>
+<duracion> P7D </duracion>
+<agencia> Sin agencia </agencia>
+<descripcion> Se trata de una ruta en caravana para conocer los costas andaluzas </descripcion>
+<personas> Cualquier persona puede hacer esta ruta siempre que alguno tenga carnet de conducir y una caravana </personas>
+<inicio>Cadiz</inicio>
+<direccionInicio>Cadiz</direccionInicio>
+<coordenadasInicio>Latitud:36º31´47´´ Longitud:6º17´40´´ Altitud:18 metros</coordenadasInicio>
+<referencias>
+<enlace>https://www.luxecaravaning.com/blog/las-mejores-rutas-para-hacer-en-caravana-por-espana/#:~:text=%20Las%20mejores%20rutas%20para%20hacer%20en%20caravana,con%20la%20naturaleza%2C%20una%20ruta%20por...%20More%20</enlace>
+<enlace>https://www.cadiztur.com/es/ciudad-zahara-de-los-atunes/playas/</enlace>
+<enlace>http://muchoequipaje.com/blog/las-ocho-mejores-playas-de-tarifa-cadiz/#:~:text=%20Las%20ocho%20mejores%20playas%20de%20Tarifa%20%28C%C3%A1diz%29,Tarifa%20hasta%20el%20R%C3%ADo%20est%C3%A1%20Playa...%20More%20</enlace>
+</referencias>
+<recomendacion>9</recomendacion>
+<hitos>
+
+<hito nombreHito = "Zahara de los Atunes">
+<descripcionHito>Es una entidad local autónoma ​ perteneciente al municipio español de Barbate, en la provincia de Cádiz, Andalucía</descripcionHito>
+<coordenadasHito>Latitud:36º08´12´´N Longitud:5º50´45´´O Altitud:4m</coordenadasHito>
+<distanciaAnterior>85 km</distanciaAnterior>
+<tiempoAnterior>1 hora</tiempoAnterior>
+<fotoHito>https://www.diariodejerez.es/2020/07/20/janda/Imagen-playa-Zahara-imagen-archivo_1484562214_124016557_1200x675.jpg</fotoHito>
+<videoHito>https://www.youtube.com/watch?v=uzvU8KQIrwE</videoHito>
+</hito>
+
+<hito nombreHito = "Tarifa">
+<descripcionHito>Tarifa es un municipio español de la provincia de Cádiz, Andalucía</descripcionHito>
+<coordenadasHito>Latitud:36º00´50´´N Longitud:5º36´25´´O Altitud:22m</coordenadasHito>
+<distanciaAnterior>40 km</distanciaAnterior>
+<tiempoAnterior>30 minutos</tiempoAnterior>
+<fotoHito>https://casaruraltarifa.com/wp-content/uploads/2016/07/playas-de-tarifa-1080x675.jpg</fotoHito>
+<videoHito>https://www.youtube.com/watch?v=irwkv8iFoiY</videoHito>
+</hito>
+
+<hito nombreHito = "Las calas de Nerja">
+<descripcionHito>Nerja es un municipio de la provincia de Málaga y el pueblo más oriental de la comarca de la Axarquía</descripcionHito>
+<coordenadasHito>Latitud:36º45´10´´N Longitud:3º52´27´´O Altitud:51m</coordenadasHito>
+<distanciaAnterior>227 km</distanciaAnterior>
+<tiempoAnterior>2 horas y 30 minutos</tiempoAnterior>
+<fotoHito>https://www.capistranovillage.com/assets/capistrano-village/original/calas-de-nerja_441170.jpg</fotoHito>
+<videoHito>https://www.youtube.com/watch?v=Goiwce_RBmM</videoHito>
+</hito>
+
+
+
+</hitos>
+</ruta>
+
+<ruta nombre="Camino de Santiago">
+<tipo> Arquitectura y Monumentos </tipo>
+<dificultad> Media </dificultad>
+<duracion> P10D </duracion>
+<agencia> Sin agencia </agencia>
+<descripcion> Se trata de la famosa ruta del camino de Santiago pero en vez de a pie en caravana </descripcion>
+<personas> Cualquier persona puede hacer esta ruta siempre que alguno tenga carnet de conducir y una caravana </personas>
+<inicio>Roncesvalles</inicio>
+<direccionInicio>Roncesvalles</direccionInicio>
+<coordenadasInicio>43,00872° N, -1,31989° E Altitud:944 metros</coordenadasInicio>
+<referencias>
+<enlace>https://www.caravaneros.com/2019/04/camino-de-santiago-en-autocaravana.html</enlace>
+<enlace>https://www.pilgrim.es/camino-de-santiago-desde-roncesvalles/</enlace>
+<enlace>https://www.elcaminodesantiago.viajes/salidas-2020/frances-roncesvalles/</enlace>
+</referencias>
+<recomendacion>9</recomendacion>
+<hitos>
+
+<hito nombreHito = "Logroño">
+<descripcionHito>Logroño es una ciudad y municipio situado en el norte de España, capital de la comunidad autónoma de La Rioja</descripcionHito>
+<coordenadasHito>Latitud:42º28´00´´N Longitud:2º27´00´´O Altitud:389m</coordenadasHito>
+<distanciaAnterior>146 km</distanciaAnterior>
+<tiempoAnterior>1 hora y 45 minutos</tiempoAnterior>
+<fotoHito>https://www.francoespanolas.com/wp-content/uploads/2018/11/concatedral-santa-maria-redonda.jpg</fotoHito>
+<videoHito></videoHito>
+</hito>
+
+<hito nombreHito = "Astorga">
+<descripcionHito>es un municipio ​ y ciudad de España, en la zona central de la provincia de León, en la comunidad autónoma de Castilla y León</descripcionHito>
+<coordenadasHito>Latitud:42º27´31´´N Longitud:6º03´21´´O Altitud:865m</coordenadasHito>
+<distanciaAnterior>345 km</distanciaAnterior>
+<tiempoAnterior>3 horas y media</tiempoAnterior>
+<fotoHito>https://turismodeleon.com/wp-content/uploads/2018/05/astorga-084.jpg</fotoHito>
+<videoHito></videoHito>
+</hito>
+
+<hito nombreHito = "Santiago">
+<descripcionHito>Santiago de Compostela es un municipio y ciudad de España, capital de la comunidad autónoma de Galicia</descripcionHito>
+<coordenadasHito>Latitud:42º52´49´´N Longitud:8º32´44´´O Altitud:257m</coordenadasHito>
+<distanciaAnterior>266 km</distanciaAnterior>
+<tiempoAnterior>2 horas y media</tiempoAnterior>
+<fotoHito>https://www.worldtravelguide.net/wp-content/uploads/2017/04/Think-Spain-SantiagodeCompostela-151534269-CarlosGFernandez-copy.jpg</fotoHito>
+<videoHito></videoHito>
+</hito>
+</hitos>
+</ruta>
+</rutas>
